@@ -35,6 +35,7 @@ function permute(array, indexCounter){
 function permutationSort(array){
 	if (array==[])
 		return [];
+	counter[0]=0;
 	if (permute(array,0)==1)
 		return counter[0];
 }

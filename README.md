@@ -21,6 +21,10 @@ randomly without memory instead of systematically trying them?
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. Add your answer to this markdown file.  
   
+I used the following source in order to help create my code:  
+https://www.geeksforgeeks.org/print-all-possible-permutations-of-an-array-vector-without-duplicates-using-backtracking/  
+
+ 
 **Note**: Please be aware that I was slightly confused about what was being asked  
 in the question. If I am missing anything (or something is wrong) please don't  
 hesitate to let me know and I will fix it as soon as possible. Thank you.  
