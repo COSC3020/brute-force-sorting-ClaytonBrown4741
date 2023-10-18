@@ -32,14 +32,14 @@ hesitate to let me know and I will fix it as soon as possible. Thank you.
 **ANSWER**:  
 In the case for this algorithm, the best case scenario would be if the the program  
 was given an already sorted graph. In this case, the complexity would only be  
-$Theta(n)$ due to the algorithm only having to go over them once to make sure that  
+$\Theta(n)$ due to the algorithm only having to go over them once to make sure that  
 they were properly sorted. Next up, the worst case scenario would be if the sorted  
 array was the last permutation generated. This would give the the sorting algorithm  
-a complexity of $Theta(n!)$, as that's how many tries it would take to find the  
-correct answer. $Theta(n!)$ would also be the average runtime for this algorithm.  
+a complexity of $\Theta(n!)$, as that's how many tries it would take to find the  
+correct answer. $\Theta(n!)$ would also be the average runtime for this algorithm.  
 Needless to say, this is not quick in the least.  
 If the code permutated results at random, then that would be even *more* slow.  
-The best case would most likely still be $Theta(n)$, as there's always the chance  
+The best case would most likely still be $\Theta(n)$, as there's always the chance  
 of the algorithm getting the order right on the first try. Then, all it would have  
 to do is check to make sure that all the elements are in order. The worst and average case, however  
 would take a practically an infinite amount of time. For instance, assume you have a list  
